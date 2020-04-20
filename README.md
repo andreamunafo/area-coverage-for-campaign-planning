@@ -11,7 +11,7 @@ The ability to quickly allocate each vehicle to one specific area, to monitor th
 This repository addresses the area coverage problem and aims at providing a solution to efficiently schedule AUV operations over multi-days and large areas.
 
 ## Table of content
--[01-knapsacking-the-area-coverage-problem.ipynb](01-knapsacking-the-area-coverage-problem.ipynb)
+-[01-maximizing-AUV-area-coverage.ipynb](01-maximizing-AUV-area-coverage.ipynb)
  Main notebook. Describes the problem and how to solve using convex optimisation.
  
 -[02-cvxpy.ipynb](02-cvxpy.ipynb) 
@@ -38,4 +38,4 @@ which glpsol
 output: `/usr/local/bin/glpsol`
 
 # How to run it
-Open [01-knapsacking-the-area-coverage-problem.ipynb](01-knapsacking-the-area-coverage-problem.ipynb) and run each cell.
+Open [01-maximizing-AUV-area-coverage.ipynb](01-maximizing-AUV-area-coverage.ipynb) and run each cell.
